@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Alejandro 👋
 
-<!--
-**alejandro-calvo/alejandro-calvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Telematics Engineering student with a strong interest in networking, systems, infrastructure and software development.
 
-Here are some ideas to get you started:
+## About me
+- Studying Telematics Engineering at Universidad Rey Juan Carlos
+- Background in computer networks, Linux systems, programming and web development
+- Academic experience building applications with Python/Django and Kotlin
+- Interested in developing my career around networking, infrastructure, systems engineering and related technologies
+- Currently exploring areas such as cloud computing and cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical skills
+- **Networking:** TCP/IP, IPv4, subnetting, static routing, OSPF, BGP, VLANs, Wireshark
+- **Systems:** Linux/Ubuntu, basic system administration, VirtualBox
+- **Programming:** Python, Java, C++, Kotlin
+- **Web:** Django, HTMX, HTML, CSS, REST APIs, JSON, XML
+- **Databases:** SQL, SQLite, Room
+
+## Current focus
+- Strengthening my networking and systems knowledge
+- Building and documenting technical projects
+- Improving my Python and backend development skills
+- Exploring cloud, cybersecurity and infrastructure technologies
+
